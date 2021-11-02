@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.word {
+  position: relative;
+  top: 20px;
+  left: 30%;
+  color: rgb(9, 10, 10);
+}
+body {
+  background-color: chocolate
+  
+  ;
+}
+
+.word1 {
+  position: relative;
+  top: 150px;
+  left: 19%;
+  color: cadetblue;
+}
+.word2 {
+  position: relative;
+  top: 130px;
+  left: 50%;
+}
+.word3 {
+  position: relative;
+  top: 180px;
+  left: 19%;
+}
+
+.word4 {
+  position: relative;
+  top: 160px;
+  left: 50%;
+}
+.word5 {
+  position: relative;
+  top: 220px;
+  left: 19%;
+}
+.word67 {
+  position: relative;
+  top: 180px;
+  left: 50%;
+}
+.footer {
+  position: relative;
+  top: 260px;
+  left: 35%;
+  color: rgb(32, 30, 28);
+}
